@@ -1,3 +1,5 @@
+package ch2;
+
 public class CatingEx3 {
     public static void mian(String[] args){
         float f = 9.123456f;

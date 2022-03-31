@@ -1,3 +1,5 @@
+package ch2;
+
 public class CastingEx2 {
     public static void main(String[] args){
         int i = 10;

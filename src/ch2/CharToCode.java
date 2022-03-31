@@ -1,3 +1,5 @@
+package ch2;
+
 public class CharToCode {
     public static void mian(String[] args){
         char ch = 'A';

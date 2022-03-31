@@ -1,3 +1,5 @@
+package ch2;
+
 public class CastingEx {
     public static void main(String[] args){
         double d = 85.4;
