@@ -21,5 +21,6 @@ public class PrintfEx2 {
         System.out.printf("[%20s}%n", url);
         System.out.printf("[%-20s}%n", url);
         System.out.printf("[%.8s}%n", url);
+
     }
 }
